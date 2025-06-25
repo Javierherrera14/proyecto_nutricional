@@ -1,0 +1,33 @@
+# 🔒 Archivos sensibles y secretos
+.env
+
+# 🧠 Python y compilación
+__pycache__/
+*.py[cod]
+*.so
+
+# 📦 Entornos virtuales
+venv/
+.env/
+env/
+.venv/
+
+# 🛠️ Herramientas y editores
+.idea/
+.vscode/
+
+# 📁 Archivos de bases de datos locales
+*.sqlite3
+*.db
+
+# 🚫 Logs
+*.log
+
+# 📦 Paquetes de distribución
+*.egg-info/
+dist/
+build/
+
+# 💻 Archivos del sistema operativo
+.DS_Store
+Thumbs.db
